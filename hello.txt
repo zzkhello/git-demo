@@ -3,4 +3,6 @@ test it for git 2
 test it for git 3
 test it for git 4
 test it for git 5
-first modify
+master first modify
+master second modify
+
